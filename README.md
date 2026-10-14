@@ -65,8 +65,8 @@ If fewer than 2 relevant documents are found, the agent rewrites the query and r
 ### 1. Install
 
 ```bash
-git clone https://github.com/ThuanNaN/aio-agentic-rag.git
-cd aio-agentic-rag
+git clone git@github.com:macroni1407/Vietnamese_Legal_Agentic_RAG.git
+cd Vietnamese_Legal_Agentic_RAG
 pip install -e ".[all]"
 ```
 
